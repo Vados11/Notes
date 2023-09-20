@@ -8,7 +8,9 @@ To get started with Notes, follow these steps:
 
 1. Clone the repository:
 
-2. Install the necessary dependencies:
+git clone https://github.com/Vados11/Notes.git
+
+3. Install the necessary dependencies:
 
 npm install
 
